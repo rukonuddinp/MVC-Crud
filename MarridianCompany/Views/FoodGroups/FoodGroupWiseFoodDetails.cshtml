@@ -1,0 +1,58 @@
+﻿@using MarridianCompany.Helpers
+@model IEnumerable<MarridianCompany.Models.FoodDetail>
+
+<h2>MarridianCompanys</h2>
+<p>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#FoodDetailModal" onclick="loadFoodDetail(@ViewData["id"])">Create New</button>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FoodGroup.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Image)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EntryDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var FoodDetail in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelFoodDetail => FoodDetail.FoodGroup.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelFoodDetail => FoodDetail.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelFoodDetail => FoodDetail.Description)
+        </td>
+        <td>
+            @Html.ImageFor(modelFoodDetail => FoodDetail.Image, "", 200, 200)
+        </td>
+        <td>
+            @Html.DisplayFor(modelFoodDetail => FoodDetail.EntryDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelFoodDetail => FoodDetail.Quantity)
+        </td>
+        <td>
+            <button type="button" class="btn btn-warning btn-sm" data-toggle="modal" data-target="#editFoodDetailModal" onclick="editFoodDetail(@FoodDetail.ID)">Edit</button>&nbsp;&nbsp;
+            <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#deleteFoodDetailModal" onclick="deleteFoodDetail(@FoodDetail.ID)">Delete</button>
+        </td>
+    </tr>
+}
+
+</table>

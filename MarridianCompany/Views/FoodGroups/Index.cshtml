@@ -1,0 +1,198 @@
+﻿@model IEnumerable<MarridianCompany.Models.FoodGroup>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div id="FoodGroupDiv" class="col-md-2" style="overflow:scroll; height:500px; background-color: cadetblue">
+        <h2>FoodGroups</h2>
+        <p>
+            <button type="button" 
+                    class="btn btn-primary" 
+                    data-toggle="modal" 
+                    data-target="#FoodGroupModal">Create New</button>
+        </p>
+        @foreach (var FoodDetail in Model)
+        {
+            <div class="card">
+                <div class="card-header">
+                    @Html.DisplayFor(modelFoodDetail => FoodDetail.Name)
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@FoodDetail.FoodDetails.Count MarridianCompanys avaiailable.</h5>
+                </div>
+                <div class="card-footer">
+                    <button class="btn btn-warning" data-toggle="modal" data-target="#editFoodGroupModal" onclick="editFoodGroup(@FoodDetail.ID)">Edit</button>&nbsp;&nbsp;
+                    <button class="btn btn-info" onclick="getDetails(@FoodDetail.ID)">Details</button>&nbsp;&nbsp;
+                    <button class="btn btn-danger" data-toggle="modal" data-target="#deleteFoodGroupModal" onclick="deleteFoodGroup(@FoodDetail.ID)">Delete</button>
+                </div>
+            </div>
+            <br />
+        }
+
+    </div>
+    <div id="FoodDetailsDiv" class="col-md-10" style="overflow:scroll; background-color:cornsilk">
+    </div>
+</div>
+
+<div class="modal fade" id="FoodGroupModal" tabindex="-1"
+     aria-labelledby="FoodGroupModalLabel" aria-hidden="true">
+
+
+    
+
+    <div class="modal-dialog">
+        <div class="modal-content">
+            @{
+            Html.RenderPartial("Create", new MarridianCompany.Models.FoodGroup());
+        }
+        </div>
+        </div>
+</div>
+
+<div class="modal fade" id="editFoodGroupModal" tabindex="-1" aria-labelledby="editFoodGroupModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div id="editFoodGroupModalContent" class="modal-content">
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="deleteFoodGroupModal" tabindex="-1" aria-labelledby="deleteFoodGroupModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div id="deleteFoodGroupModalContent" class="modal-content">
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="FoodDetailModal" tabindex="-1" aria-labelledby="FoodDetailModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div id="FoodDetailModalContent" class="modal-content">
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="editFoodDetailModal" tabindex="-1" aria-labelledby="editFoodDetailModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div id="editFoodDetailModalContent" class="modal-content">
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="deleteFoodDetailModal" tabindex="-1" aria-labelledby="deleteFoodDetailModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div id="deletFoodDetailModalContent" class="modal-content">
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script>
+        $(document).ready(function () {
+            $("#FoodGroupDiv").height($(window).height() * .85);
+            $("#FoodDetailsDiv").height($(window).height() * .85);
+
+            if (isNaN(@TempData["id"]) == false) {
+                var link = '@Url.Action("GetFoodGroupWiseFoodDetails", "FoodGroups", new { id = @TempData["id"] })';
+                $("#FoodDetailsDiv").load(link);
+            }
+
+            $('#FoodGroupModal').on('shown.bs.modal', function () {
+                $('#Name').trigger('focus');
+            });
+
+            $('#FoodGroupModal').on('hidden.bs.modal', function (event) {
+                $("input[type=text]").val("");
+                $("input[type=number]").val("");
+                $("input[type=datetime-local]").val("");
+                $('#sl').val('0');
+
+                $("img[data-tag='FoodDetailImageinFoodGroup']").each(function () {
+                    $(this).attr("src", "/Images/transparent_phone.jpg");
+                });
+
+                $("div").each(function () {
+                    if (parseInt(this.id) > 0) {
+                        this.remove();
+                    }
+                })
+            });
+
+            $('#addModelButton').on('click', function () {
+                var present_sl = parseInt($('#sl').val());
+                var next_sl = parseInt(present_sl) + 1;
+                var next_FoodDetail = '<div id="' + next_sl + '">' + $('#' + present_sl).html() + '</div>';
+                next_FoodDetail = next_FoodDetail.split('_' + present_sl.toString()).join('_' + next_sl.toString());
+                next_FoodDetail = next_FoodDetail.split('[' + present_sl.toString() + ']').join('[' + next_sl.toString() + ']');
+                $('#' + present_sl).after(next_FoodDetail);
+                $('#sl').val(next_sl);
+            });
+
+            $('#FoodDetailModal').on('hidden.bs.modal', function (event) {
+                $("input[type=text]").val("");
+                $("input[type=number]").val("");
+                $("input[type=datetime-local]").val("");
+            });
+        });
+
+        function editFoodGroup(e) {
+            var link = '@Url.Action("Edit", "FoodGroups", new { id = "-1" })';
+            link = link.replace("-1", e);
+            $("#editFoodGroupModalContent").load(link);
+        }
+
+        function deleteFoodGroup(e) {
+            var link = '@Url.Action("Delete", "FoodGroups", new { id = "-1" })';
+            link = link.replace("-1", e);
+            $("#deleteFoodGroupModalContent").load(link);
+        }
+
+        function getDetails(e) {
+            var link = '@Url.Action("GetFoodGroupWiseFoodDetails", "FoodGroups", new { id = "-1" })';
+            link = link.replace("-1", e);
+            $("#FoodDetailsDiv").load(link);
+        }
+
+        function loadFoodDetail(e) {
+            var link = '@Url.Action("Create", "FoodDetails", new { id = "-1" })';
+            link = link.replace("-1", e);
+            $("#FoodDetailModalContent").load(link);
+        }
+
+        function editFoodDetail(e) {
+            var link = '@Url.Action("Edit", "FoodDetails", new { id = "-1" })';
+            link = link.replace("-1", e);
+            $("#editFoodDetailModalContent").load(link);
+        }
+
+        function deleteFoodDetail(e) {
+            var link = '@Url.Action("Delete", "FoodDetails", new { id = "-1" })';
+            link = link.replace("-1", e);
+            $("#deletFoodDetailModalContent").load(link);
+        }
+
+        var loadImage = function (event) {
+            if (event.target.files && event.target.files[0]) {
+                var img = document.getElementById('FoodDetailImage');
+                img.src = URL.createObjectURL(event.target.files[0]);
+            }
+        }
+
+        var editImage = function (event) {
+            if (event.target.files && event.target.files[0]) {
+                var img = document.querySelector('img[alt = "Edit Image"]')
+                img.src = URL.createObjectURL(event.target.files[0]);
+            }
+        }
+
+        var changeImage = function (obj, event) {
+            if (event.target.files && event.target.files[0]) {
+                console.log(obj.dataset.tag);
+                var img = document.getElementById(obj.dataset.tag);
+                img.src = URL.createObjectURL(event.target.files[0]);
+            }
+        }
+
+</script>
+}

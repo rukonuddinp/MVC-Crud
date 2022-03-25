@@ -1,0 +1,747 @@
+E:\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.CoreCompileInputs.cache
+E:\MarridianCompany\MarridianCompany\bin\MarridianCompany.dll.config
+E:\MarridianCompany\MarridianCompany\bin\MarridianCompany.dll
+E:\MarridianCompany\MarridianCompany\bin\MarridianCompany.pdb
+E:\MarridianCompany\MarridianCompany\bin\roslyn\csc.exe
+E:\MarridianCompany\MarridianCompany\bin\roslyn\csc.exe.config
+E:\MarridianCompany\MarridianCompany\bin\roslyn\csc.rsp
+E:\MarridianCompany\MarridianCompany\bin\roslyn\csi.exe
+E:\MarridianCompany\MarridianCompany\bin\roslyn\csi.exe.config
+E:\MarridianCompany\MarridianCompany\bin\roslyn\csi.rsp
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.AppContext.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Collections.Immutable.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Console.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Globalization.Calendars.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.Compression.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.FileSystem.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Net.Http.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Net.Sockets.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Reflection.Metadata.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.ValueTuple.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XPath.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MarridianCompany\MarridianCompany\bin\roslyn\vbc.exe
+E:\MarridianCompany\MarridianCompany\bin\roslyn\vbc.exe.config
+E:\MarridianCompany\MarridianCompany\bin\roslyn\vbc.rsp
+E:\MarridianCompany\MarridianCompany\bin\roslyn\VBCSCompiler.exe
+E:\MarridianCompany\MarridianCompany\bin\roslyn\VBCSCompiler.exe.config
+E:\MarridianCompany\MarridianCompany\bin\Antlr3.Runtime.dll
+E:\MarridianCompany\MarridianCompany\bin\EntityFramework.dll
+E:\MarridianCompany\MarridianCompany\bin\EntityFramework.SqlServer.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Features.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Primitives.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Net.Http.Headers.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Web.Infrastructure.dll
+E:\MarridianCompany\MarridianCompany\bin\Newtonsoft.Json.dll
+E:\MarridianCompany\MarridianCompany\bin\Owin.dll
+E:\MarridianCompany\MarridianCompany\bin\System.Web.Helpers.dll
+E:\MarridianCompany\MarridianCompany\bin\System.Web.Mvc.dll
+E:\MarridianCompany\MarridianCompany\bin\System.Web.Optimization.dll
+E:\MarridianCompany\MarridianCompany\bin\System.Web.Razor.dll
+E:\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Deployment.dll
+E:\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.dll
+E:\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Razor.dll
+E:\MarridianCompany\MarridianCompany\bin\WebGrease.dll
+E:\MarridianCompany\MarridianCompany\bin\EntityFramework.xml
+E:\MarridianCompany\MarridianCompany\bin\EntityFramework.SqlServer.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Features.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Primitives.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Net.Http.Headers.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MarridianCompany\MarridianCompany\bin\System.Web.Helpers.xml
+E:\MarridianCompany\MarridianCompany\bin\System.Web.Mvc.xml
+E:\MarridianCompany\MarridianCompany\bin\System.Web.Optimization.xml
+E:\MarridianCompany\MarridianCompany\bin\System.Web.Razor.xml
+E:\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.xml
+E:\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Deployment.xml
+E:\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Razor.xml
+E:\MarridianCompany\MarridianCompany\bin\Newtonsoft.Json.xml
+E:\MarridianCompany\MarridianCompany\bin\Antlr3.Runtime.pdb
+E:\MarridianCompany\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.dll
+E:\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.pdb
+E:\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.AssemblyReference.cache
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\MarridianCompany.dll.config
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\MarridianCompany.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\MarridianCompany.pdb
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\csc.exe
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\csc.exe.config
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\csc.rsp
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\csi.exe
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\csi.exe.config
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\csi.rsp
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.AppContext.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Console.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Net.Http.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\vbc.exe
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\vbc.exe.config
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\vbc.rsp
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Antlr3.Runtime.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\EntityFramework.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Features.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Newtonsoft.Json.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Owin.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.Helpers.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.Mvc.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.Optimization.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.Razor.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Razor.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\WebGrease.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\EntityFramework.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Features.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.Helpers.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.Mvc.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.Optimization.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.Razor.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Razor.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Newtonsoft.Json.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Antlr3.Runtime.pdb
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.CoreCompileInputs.cache
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.CopyComplete
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.dll
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.pdb
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.AssemblyReference.cache
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.Migrations.InitialCreate.resources
+C:\Users\LAB-3\Desktop\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.GenerateResource.cache
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\MarridianCompany.dll.config
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\MarridianCompany.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\MarridianCompany.pdb
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csc.exe
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csc.exe.config
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csc.rsp
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csi.exe
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csi.exe.config
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csi.rsp
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.AppContext.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Collections.Immutable.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Console.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Globalization.Calendars.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.Compression.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.FileSystem.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Net.Http.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Net.Sockets.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Reflection.Metadata.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.ValueTuple.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XPath.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\vbc.exe
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\vbc.exe.config
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\vbc.rsp
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\VBCSCompiler.exe
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\VBCSCompiler.exe.config
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Antlr3.Runtime.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\EntityFramework.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\EntityFramework.SqlServer.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Features.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Primitives.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Net.Http.Headers.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Web.Infrastructure.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Newtonsoft.Json.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Owin.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Helpers.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Mvc.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Optimization.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Razor.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Deployment.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Razor.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\WebGrease.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\EntityFramework.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\EntityFramework.SqlServer.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Features.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Primitives.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Net.Http.Headers.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Helpers.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Mvc.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Optimization.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Razor.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Deployment.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Razor.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Newtonsoft.Json.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Antlr3.Runtime.pdb
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.AssemblyReference.cache
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.Migrations.InitialCreate.resources
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.GenerateResource.cache
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.CoreCompileInputs.cache
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.CopyComplete
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.dll
+E:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.pdb
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\MarridianCompany.dll.config
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\MarridianCompany.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\MarridianCompany.pdb
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csc.exe
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csc.exe.config
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csc.rsp
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csi.exe
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csi.exe.config
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\csi.rsp
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.AppContext.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Collections.Immutable.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Console.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Globalization.Calendars.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.Compression.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.FileSystem.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Net.Http.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Net.Sockets.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Reflection.Metadata.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.ValueTuple.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XPath.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\vbc.exe
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\vbc.exe.config
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\vbc.rsp
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\VBCSCompiler.exe
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\roslyn\VBCSCompiler.exe.config
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Antlr3.Runtime.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\EntityFramework.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\EntityFramework.SqlServer.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Features.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Primitives.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Net.Http.Headers.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Web.Infrastructure.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Newtonsoft.Json.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Owin.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Helpers.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Mvc.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Optimization.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Razor.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Deployment.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Razor.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\WebGrease.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\EntityFramework.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\EntityFramework.SqlServer.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Http.Features.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.Primitives.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Net.Http.Headers.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Helpers.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Mvc.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Optimization.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.Razor.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Deployment.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\System.Web.WebPages.Razor.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Newtonsoft.Json.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Antlr3.Runtime.pdb
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.AssemblyReference.cache
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.Migrations.InitialCreate.resources
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.GenerateResource.cache
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.CoreCompileInputs.cache
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.csproj.CopyComplete
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.dll
+F:\Porjects\MVC Project\MarridianCompany\MarridianCompany\MarridianCompany\obj\Debug\MarridianCompany.pdb
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\MarridianCompany.dll.config
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\MarridianCompany.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\MarridianCompany.pdb
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\csc.exe
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\csc.exe.config
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\csc.rsp
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\csi.exe
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\csi.exe.config
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\csi.rsp
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.Managed.Core.targets
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.AppContext.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Collections.Immutable.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Console.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Globalization.Calendars.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.IO.Compression.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.IO.FileSystem.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Net.Http.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Net.Sockets.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Reflection.Metadata.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.ValueTuple.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Xml.XmlDocument.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Xml.XPath.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\vbc.exe
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\vbc.exe.config
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\vbc.rsp
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\VBCSCompiler.exe
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\roslyn\VBCSCompiler.exe.config
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Antlr3.Runtime.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\EntityFramework.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\EntityFramework.SqlServer.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Authentication.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.DataProtection.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Http.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Http.Features.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Identity.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Configuration.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Primitives.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Net.Http.Headers.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.Security.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Web.Infrastructure.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Newtonsoft.Json.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Owin.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.Helpers.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.Mvc.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.Optimization.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.Razor.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.WebPages.Deployment.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.WebPages.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.WebPages.Razor.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\WebGrease.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\EntityFramework.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\EntityFramework.SqlServer.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Authentication.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Authentication.Cookies.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Cryptography.Internal.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Cryptography.KeyDerivation.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.DataProtection.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Http.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Http.Abstractions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Http.Extensions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Http.Features.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Identity.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Identity.Core.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.AspNet.WebUtilities.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Configuration.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Configuration.Binder.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Logging.Abstractions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.OptionsModel.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.PlatformAbstractions.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.Primitives.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Extensions.WebEncoders.Core.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Net.Http.Headers.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.Security.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.Security.Cookies.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.Owin.Security.OAuth.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.Helpers.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.Mvc.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.Optimization.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.Razor.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.WebPages.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.WebPages.Deployment.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\System.Web.WebPages.Razor.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Newtonsoft.Json.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Antlr3.Runtime.pdb
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\obj\Debug\MarridianCompany.csproj.AssemblyReference.cache
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\obj\Debug\MarridianCompany.Migrations.InitialCreate.resources
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\obj\Debug\MarridianCompany.csproj.GenerateResource.cache
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\obj\Debug\MarridianCompany.csproj.CoreCompileInputs.cache
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\obj\Debug\MarridianCompany.csproj.CopyComplete
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\obj\Debug\MarridianCompany.dll
+G:\All Project\GitHubUpdateCrud\MVC\MarridianCompany\obj\Debug\MarridianCompany.pdb
